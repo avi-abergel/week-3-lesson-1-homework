@@ -1,0 +1,6 @@
+﻿  exc3.c
+C:\Users\97252\source\repos\week3_meeting1_homework\week3_meeting1_homework\exc3.c(18,37): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\97252\source\repos\week3_meeting1_homework\week3_meeting1_homework\exc3.c(31,37): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\97252\source\repos\week3_meeting1_homework\week3_meeting1_homework\exc3.c(44,37): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\97252\source\repos\week3_meeting1_homework\week3_meeting1_homework\exc3.c(54,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  week3_meeting1_homework.vcxproj -> C:\Users\97252\source\repos\week3_meeting1_homework\x64\Debug\week3_meeting1_homework.exe
